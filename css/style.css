@@ -1,0 +1,26 @@
+#car{
+    filter: brightness(75%);
+    margin-top: -7%;
+}
+
+#car-box{
+    width: auto;
+    height: auto;
+    max-height: 800px;
+}
+
+#car-t{
+    margin-bottom: 7.5%;
+}
+
+#text-jus{
+    text-align: center;
+}
+
+#pessoas{
+    margin-left: 0.7%;
+}
+
+#text{
+    margin-left: 10%;
+}
